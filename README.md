@@ -27,11 +27,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+If you recorded multiple GIFs for all the implemented features, you can add them here
+![gif1](https://user-images.githubusercontent.com/83483386/159098003-2239169c-d88f-4102-8aa9-b079b6026270.gif)
+![gif2](https://user-images.githubusercontent.com/83483386/159098010-e57e760c-2796-4e3d-8455-511761973d76.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
