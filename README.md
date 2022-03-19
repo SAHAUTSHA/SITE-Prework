@@ -40,11 +40,11 @@ The only external resource I had used was a website called “coolors,” which 
 
 
 
-** 3. What questions about web development do you have after completing your submission? 
+3. What questions about web development do you have after completing your submission? 
 
 After completing this submission, I have many topics and questions about web development. My first one would be how would smooth animations be inserted or created? Another question would be how a backend would be connected to our submission. A backend would be allowed to assign each different user a special playerID, and that playerID could be assigned their unique number of points (dependent on the player's success). I also am interested in how to create a website that can take input from a user. For example, many websites have a place where users can 'leave a message,' taking in name, email, and inquiry. Another question I have for web development is how much Apache is necessary to know. Does a Web developer need to be fully skilled in Apache? I also wanted to know how someone would go to create an e-commerce website from scratch? Another question I would have is more about loading times. How could I reduce page loading times if I want to create a website that almost automatically loads within seconds? 
 
-** 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
 
 If I had a few more hours to work on this project, I would make many adjustments. First, I would adjust the presentation of the website with more colors and allow the website to be more visually appealing to the eyes. I would also add custom sounds to make the game similar to the famous “Bop It” game. I would also add more buttons to make the game harder and use functions to create a more randomized game. A user currently could memorize the pattern and win every time. I would also like to have an animation for each time a user wins or loses, making the game more charming and enjoyable. To add a competitive nature to the game, I would make the game an endless game where the user would get the point for each successful round, and there would be a worldwide leaderboard to have each user ranked. This being said, I would also add a timer to the game for each round, slowly decreasing in time for the user to play. On top of all these features, having the colors change position for each round would also make the game much more difficult as not only is the player memorizing the color but also the position. 
 
