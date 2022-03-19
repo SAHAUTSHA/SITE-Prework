@@ -44,7 +44,7 @@ The following **optional** features are implemented:
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](youtu.be/BGBe3GYsQd4)
+[My 5-minute Interview Recording](https://youtu.be/BGBe3GYsQd4)
 
 
 ## License
