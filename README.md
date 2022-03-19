@@ -36,11 +36,13 @@ The only external resource I had used was a website called “coolors,” which 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
+
+
+
+
+** 3. What questions about web development do you have after completing your submission? 
+
 After completing this submission, I have many topics and questions about web development. My first one would be how would smooth animations be inserted or created? Another question would be how a backend would be connected to our submission. A backend would be allowed to assign each different user a special playerID, and that playerID could be assigned their unique number of points (dependent on the player's success). I also am interested in how to create a website that can take input from a user. For example, many websites have a place where users can 'leave a message,' taking in name, email, and inquiry. Another question I have for web development is how much Apache is necessary to know. Does a Web developer need to be fully skilled in Apache? I also wanted to know how someone would go to create an e-commerce website from scratch? Another question I would have is more about loading times. How could I reduce page loading times if I want to create a website that almost automatically loads within seconds? 
-
-** 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
 ** 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
 
